@@ -19,7 +19,7 @@ To make this script scaleable I will be streamlining my script to reduce the wor
    
    As a result the computer only had to loop over the rows once to gather the correct information Drastically improving time. 
    
-   <img src ="https://github.com/AbsoluteMorty/Stock_Analysis/blob/main/Resources/2017%20new.png" width="300"> <img src ="https://github.com/AbsoluteMorty/Stock_Analysis/blob/main/Resources/2018%20new.png" width="300"> 
+   <img src ="https://github.com/AbsoluteMorty/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.png" width="300"> <img src ="https://github.com/AbsoluteMorty/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018.png" width="300"> 
    
    
  
